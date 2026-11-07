@@ -1,3 +1,9 @@
+/Sample-Angular-Project/.vscode
+/Sample-Angular-Project/.gemini
+Sample-Angular-Project/.mcp.json
+Sample-Angular-Project/.editorconfig
+Sample-Angular-Project/CLAUDE.md
+
 # Angular specific
 /dist/
 /out-tsc/
